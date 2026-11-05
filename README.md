@@ -1,5 +1,8 @@
 # Bike Sales Analytics Dashboard (Power BI)
 
+<img width="1277" height="725" alt="Bike Sales (1)" src="https://github.com/user-attachments/assets/b7dff488-11d6-44aa-832d-2088372a0b28" />
+
+
 ## 📊 Overview
 This project presents an interactive **Power BI Sales Analytics Dashboard** focused on analyzing bike retail revenue across multiple cities and stores.  
 It provides insights into **total revenue, sales trends, brand performance, category distribution**, and **geographic sales patterns**.
